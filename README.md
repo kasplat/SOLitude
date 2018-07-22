@@ -33,4 +33,6 @@ The app currently has two portions designed for it. The first allows a user to s
 
 
 Welcome Screen: 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/kasplat/SOLitude/master/Artwork/opening_screen.png)
+
+To use the app,
