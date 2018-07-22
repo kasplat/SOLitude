@@ -42,3 +42,10 @@ Item Select Screen:
 
 To use the app, just click the slider on the right to "activate" the item. The top bars can also be used to filter for specific kinds of items.
 The applications.json file contains all of the objects that can be used. More can be added later if an appropriate API for this project was there. These were entered manually for this project based on research of the most likely items that the team uses.
+
+
+## Acknowledgments
+
+* Ujwal did a lot of the work on the app, many thanks to him for his help.
+* Brian Ju did research for many of the surrounding things.
+* Kesavan Kushalnagar did a lot of the data science work and ensured that the numbers were accurate, along with coding on the other computers to ensure stuff worked right.
