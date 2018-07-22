@@ -1,6 +1,8 @@
 # SOLitude
 *Application made during Nasa SpaceApps Challenge 2017 for calculating power usage.*
 
+The live website for the application can be found here. Please contact kesavan.kushalnagar@gmail.com for any questions.
+
 ![Solitude Logo](Artwork/solitude_wallpaper.png)
 ## Introduction
 Solitude represents the loneliness that an exploration team experiences when they perform great research for mankind. This app allows a team to determine their power performance over the course of the mission, with a simple, beautiful interface. The app does a few steps to do so. First, the user selects their location. Currently, the app only has data for the HI-SEAS team, but more data can be added in the future. Next, the team selects which devices they plan to use for the day. A helpful battery display on the right side allows the user to view how much energy they have remaining to use. The amount of solar energy for the day is calculated based on the user's location. 
@@ -24,3 +26,11 @@ npm install
 
 npm start
 ```
+
+## Usage
+
+The app currently has two portions designed for it. The first allows a user to select the tasks they want to do today to monitor energy usage. The second part allows the user to select their current location so that cloud cover for the next week can be forcast. The second feature is not available yet, and will likely not be completed in the near future. 
+
+
+Welcome Screen: 
+![alt text]()
