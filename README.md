@@ -33,6 +33,12 @@ The app currently has two portions designed for it. The first allows a user to s
 
 
 Welcome Screen: 
+
 ![alt text](https://raw.githubusercontent.com/kasplat/SOLitude/master/Artwork/opening_screen.png)
 
-To use the app,
+Item Select Screen:
+
+![alt text](https://raw.githubusercontent.com/kasplat/SOLitude/master/Artwork/solitude_main_screen.png)
+
+To use the app, just click the slider on the right to "activate" the item. The top bars can also be used to filter for specific kinds of items.
+The applications.json file contains all of the objects that can be used. More can be added later if an appropriate API for this project was there. These were entered manually for this project based on research of the most likely items that the team uses.
